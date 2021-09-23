@@ -7,3 +7,9 @@ void main(void)
 {
    int a = 10;//////////////////
 }
+
+void cal(int a, int b)
+{
+int c = 0;
+c = a +b ;//
+}
